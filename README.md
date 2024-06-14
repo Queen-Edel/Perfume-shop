@@ -1,6 +1,6 @@
 # Perfume Palm Store
 
-Perfume Store is an e-commerce web application for buying and exploring a wide range of perfumes. Our platform offers a user-friendly interface and diverse perfumes to suit your preferences. Whether you're a perfume enthusiast or looking for the perfect gift, Perfume Store has you covered. 
+Perfume Store is an e-commerce web application for buying and exploring a wide range of perfumes. Our platform offers a user-friendly interface and diverse perfumes to suit your preferences. Whether you're a perfume enthusiast or looking for the perfect gift, Perfume Emporium has you covered. 
 
 ## Live Demo
 
