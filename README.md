@@ -17,7 +17,7 @@ We started this project with a Figma prototype designed by [Amina](https://githu
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -96,8 +96,5 @@ We welcome contributions from the community. If you would like to contribute to 
 ## Credits
 
 - **UI/UX Design**: [Amina Zahra]((https://github.com/AminaZahra))
-- **Front End Developer**: Asmaa Elfatayry
+- **Front End Developers**:  Queen, Hilda, Mark and Grace
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
